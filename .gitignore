@@ -2,3 +2,4 @@
 wandb/
 crsp_a_stock_10yrs.csv
 crsp.csv
+__pycache__/
