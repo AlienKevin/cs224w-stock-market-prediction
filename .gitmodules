@@ -1,3 +1,6 @@
 [submodule "sp500"]
 	path = sp500
 	url = https://github.com/fja05680/sp500
+[submodule "InfoNet"]
+	path = InfoNet
+	url = https://github.com/datou30/InfoNet.git
